@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.project {
+  color: lightskyblue;
+}
+
+.size {
+  width: 100px;
+  height: 100px;
+}
+
+.heading {
+  color: maroon;
+  font-weight: 100px;
+}
